@@ -1,3 +1,5 @@
+# Covid19 India City Analysis
+
 This project is about getting realtime data from https://api.covid19india.org/districts_daily.json .From the fetched data we analyse the active, recovered and confirmed cases of COVID-19 city wise.
 
 It contains a json file state_district.json which tells the states and UT in India along with the cities.
@@ -18,5 +20,5 @@ Run.py is used to call all these 3 files and execute all files.
 
 Just execute Run.py  and file below output when selected Mumbai:
 
-
+![mumbaidata](https://user-images.githubusercontent.com/24790346/87227111-45c19480-c3b6-11ea-9651-d82ee3055116.png)
 
